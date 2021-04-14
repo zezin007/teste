@@ -1,13 +1,13 @@
 const help = (prefix) => {
 	return `
 <══════════════════════>
-      *CAUSS BOT*
+      *Augusto bot*
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
+__█▄█████▄█   *DONO*    :Augusto
 __█▼▼▼▼▼█ 
-_██ᏴϴͲ Ꮩ3.8██▌ 
+_██ᏴϴͲ Ꮩ1.0██▌ 
 __█▲▲▲▲▲█ 
 __█████████ 
 ____██_____██
@@ -16,8 +16,8 @@ ____██_____██
 ║〘 INFORMAÇÕES 〙
 ║
 ╠🐉 *CAUSS BOT* 
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗CAUSS (base dark) 
-╠🐉 *wa.me/+5547992091566*
+╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗Augusto
+╠🐉 *wa.me/+5548998457656*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ║
@@ -226,18 +226,13 @@ ____██_____██
 ║🐊 *gemidao*
 ║🐊 *musica*
 ║
-╠══🐰〘 CAUSS NO CONTROLE 〙🐰══
+╠══🐰〘 Augusto NO CONTROLE 〙🐰══
 ║
-║ *NOME: CAUSS*
-║ *INSTA: animexx_png*
-║ *WPP: wa.me/+5547992091566*
-║ *YOUTUBE: https://youtube.com/c/caussZ*
+║ *NOME: Augusto*
+║ *WPP: wa.me/+5548998457656*
 ║
-║  *"base do lindo (DARK BOT 4.0)🐊🚩*
-║  *"kiba não xereka"*
-║  *Número do dark: wa.me/+5522996215481
 ║
-╚═〘 CAUSS BOT 〙`
+╚═〘 Augusto BOT 〙`
 }
 
 exports.help = help
